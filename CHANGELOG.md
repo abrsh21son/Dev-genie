@@ -7,3 +7,5 @@
 
 - about section
 
+- footer added
+
