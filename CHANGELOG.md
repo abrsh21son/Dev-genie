@@ -5,3 +5,5 @@
 
 - custom cursor added
 
+- about section
+
