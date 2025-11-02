@@ -10,3 +10,5 @@
 
 - hover glow
 
+- ChatBasic page
+
