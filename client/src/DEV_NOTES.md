@@ -12,3 +12,5 @@
 
 - ChatBasic page
 
+- prompt parser
+
