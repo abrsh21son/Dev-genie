@@ -8,3 +8,5 @@
 
 - GetStarted page
 
+- hover glow
+
