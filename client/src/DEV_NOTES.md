@@ -6,3 +6,5 @@
 
 - how-to-use steps
 
+- GetStarted page
+
