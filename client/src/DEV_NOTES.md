@@ -14,3 +14,5 @@
 
 - prompt parser
 
+- typing indicator
+
