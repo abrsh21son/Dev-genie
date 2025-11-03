@@ -21,3 +21,5 @@
 
 - auth scaffold
 
+- file-saver download
+
