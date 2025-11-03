@@ -17,3 +17,5 @@
 
 - message flow
 
+- JSZip integration
+
