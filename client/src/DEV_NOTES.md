@@ -16,3 +16,5 @@
 
 - typing indicator
 
+- dynamic package.json
+
