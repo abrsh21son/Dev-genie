@@ -18,3 +18,5 @@
 
 - dynamic package.json
 
+- User model
+
