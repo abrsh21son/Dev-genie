@@ -19,3 +19,5 @@
 
 - JSZip integration
 
+- auth scaffold
+
