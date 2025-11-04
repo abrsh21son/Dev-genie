@@ -25,3 +25,5 @@
 
 - AdvancedChat page
 
+- framework selector
+
