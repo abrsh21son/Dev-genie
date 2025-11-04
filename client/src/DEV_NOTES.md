@@ -22,3 +22,5 @@
 
 - download success msg
 
+- language selector
+
