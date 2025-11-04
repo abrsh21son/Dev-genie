@@ -24,3 +24,5 @@
 
 - language selector
 
+- architecture selector
+
