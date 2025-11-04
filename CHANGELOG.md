@@ -23,3 +23,5 @@
 
 - file-saver download
 
+- AdvancedChat page
+
