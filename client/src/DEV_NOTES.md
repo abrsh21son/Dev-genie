@@ -28,3 +28,5 @@
 
 - backendGenerator wired
 
+- template banner
+
