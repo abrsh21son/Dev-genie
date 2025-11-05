@@ -34,3 +34,5 @@
 
 - filter logic
 
+- download spinner
+
