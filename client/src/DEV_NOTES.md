@@ -32,3 +32,5 @@
 
 - search input
 
+- filter logic
+
