@@ -31,3 +31,5 @@
 
 - quick-start examples
 
+- Templates page
+
