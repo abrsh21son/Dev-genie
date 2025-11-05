@@ -36,3 +36,5 @@
 
 - download spinner
 
+- offline fallback
+
