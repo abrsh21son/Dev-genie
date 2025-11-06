@@ -42,3 +42,5 @@
 
 - textarea resize fix
 
+- scroll fix
+
