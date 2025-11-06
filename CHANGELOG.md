@@ -43,3 +43,5 @@
 
 - cursor z-index fix
 
+- cursor perf
+
