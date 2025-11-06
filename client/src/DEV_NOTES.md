@@ -38,3 +38,5 @@
 
 - offline fallback
 
+- page transitions
+
