@@ -40,3 +40,5 @@
 
 - page transitions
 
+- textarea resize fix
+
