@@ -39,3 +39,5 @@
 
 - api.js service
 
+- router fix
+
