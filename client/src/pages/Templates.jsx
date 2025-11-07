@@ -1,11 +1,11 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { 
-  FaNode, FaReact, FaPython, FaJava, FaVuejs, FaAngular,
-  FaDatabase, FaDocker, FaCode, FaDownload, FaFilter,
+  FaNode, FaReact, FaPython,
+  FaDatabase, FaCode, FaDownload,
   FaSearch, FaTimes, FaCheck, FaSpinner
 } from 'react-icons/fa';
-import { SiExpress, SiDjango, SiFlask, SiMongodb, SiPostgresql } from 'react-icons/si';
+import { SiDjango, SiFlask } from 'react-icons/si';
 import { generateAdvancedProject, downloadZip } from '../services/backendGenerator';
 import './Templates.css';
 

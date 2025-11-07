@@ -1757,3 +1757,12 @@ section.section-visible {
 
 
 
+
+/* Button reset for footer placeholder links */
+.footer-link-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+}

@@ -785,9 +785,9 @@ const Home = () => {
               <div className="footer-column">
                 <h4 className="footer-heading">Resources</h4>
                 <ul className="footer-list">
-                  <li><a href="#" className="footer-link">Documentation</a></li>
-                  <li><a href="#" className="footer-link">Support</a></li>
-                  <li><a href="#" className="footer-link">Blog</a></li>
+                  <li><button className="footer-link footer-link-btn">Documentation</button></li>
+                  <li><button className="footer-link footer-link-btn">Support</button></li>
+                  <li><button className="footer-link footer-link-btn">Blog</button></li>
                 </ul>
               </div>
             </div>
