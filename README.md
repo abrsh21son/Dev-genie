@@ -9,6 +9,27 @@ Describe your stack, configure your architecture, and download a complete projec
 
 ---
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="client/public/screenshots/devegenie1.png" width="100%" alt="Home Page"/><br/>
+        <sub><b>Home — Landing page</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="client/public/screenshots/devgenie2.png" width="100%" alt="How to Use"/><br/>
+        <sub><b>How to Use — Step-by-step guide</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="client/public/screenshots/devgenie3.png" width="100%" alt="Basic Generator"/><br/>
+        <sub><b>Basic Mode — Project generated & ready to download</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## What is DevGenie?
 
 DevGenie removes the repetitive boilerplate work at the start of every project.
