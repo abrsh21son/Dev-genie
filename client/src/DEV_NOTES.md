@@ -46,3 +46,5 @@
 
 - unused imports removed
 
+- vercel.json added
+
