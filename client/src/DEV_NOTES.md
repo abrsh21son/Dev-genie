@@ -48,3 +48,5 @@
 
 - vercel.json added
 
+- caniuse updated
+
