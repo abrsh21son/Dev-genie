@@ -26,6 +26,8 @@ You land on the **Home page**. It explains what DevGenie does and shows two serv
 
 ---
 
+[Visit and explore my website]([https://your-website.vercel.app](https://dev-genie-five.vercel.app/))
+
 ### Step 2 — Click "Get Started"
 
 You are taken to a **mode selection page** with two options:
