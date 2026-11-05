@@ -85,22 +85,8 @@ Dev-genie/
     │   └── App.js                  # Route definitions
     ├── vercel.json                 # SPA routing config
     └── package.json
-```
 
----
-
-## Deploy
-
-```bash
-npm install -g vercel
-cd client
-vercel
-```
-
-The included `vercel.json` handles SPA client-side routing automatically.
-
----
 
 ## License
 
-MIT
+Abraham Shiferaw , Efrem ktachew , ruth gezahegn , afomiya ketsela 
